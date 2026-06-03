@@ -1,0 +1,14 @@
+.\main.o: test\main.c
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\main.o: test\./REGISTERS.h
+.\main.o: test\./GPIO_ctrl.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: test\././REGISTERS.h
+.\main.o: test\./segments.h
+.\main.o: test\././REGISTERS.h
+.\main.o: test\./ALS_data.h
+.\main.o: test\././REGISTERS.h
+.\main.o: test\./MOTOR_ctrl.h
+.\main.o: test\././REGISTERS.h

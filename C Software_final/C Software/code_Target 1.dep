@@ -1,0 +1,13 @@
+Dependencies for Project 'code', Target 'Target 1': (DO NOT MODIFY !)
+F (.\test\cm0dsasm.s)(0x6765BCE8)(--cpu Cortex-M0 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I"C:\Users\chanh\Downloads\PROJECT_real\C Software\RTE\_Target_1"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\Device\ARM\ARMCM0\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "ARMCM0 SETA 1"--list .\cm0dsasm.lst --xref -o .\cm0dsasm.o --depend .\cm0dsasm.d)
+F (.\test\main.c)(0x6768763B)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -O0 --apcs=interwork -I"C:\Users\chanh\Downloads\PROJECT_real\C Software\RTE\_Target_1"-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\Device\ARM\ARMCM0\Include-D__UVISION_VERSION="522" -D_RTE_ -DARMCM0-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F5F8A8)
+I (C:\Keil_v5\ARM\ARMCC\include\time.h)(0x57F5F8A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F5F8A8)
+I (test\./REGISTERS.h)(0x67682579)
+I (test\./GPIO_ctrl.h)(0x67679510)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F5F8A8)
+I (test\././REGISTERS.h)(0x67682579)
+I (test\./segments.h)(0x67682577)
+I (test\./ALS_data.h)(0x6766D026)
+I (test\./MOTOR_ctrl.h)(0x67682879)

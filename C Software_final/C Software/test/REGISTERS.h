@@ -1,0 +1,54 @@
+/******************************************************************************/
+/*                         Peripheral memory map                              */
+/******************************************************************************/
+
+
+#define AHB_LED_BASE		0x50000000         
+#define AHB_KEY_BASE		0x51000000
+#define AHB_ALS0_BASE		0x52000000
+#define AHB_ALS1_BASE		0x53000000
+#define AHB_ALS2_BASE		0x54000000
+#define AHB_SEG_BASE		0x55000000
+#define AHB_GPIO_BASE		0x56000000
+#define AHB_TIMER_BASE	0x57000000
+#define AHB_PWM_BASE		0x58000000
+
+
+
+/******************************************************************************/
+/*                         NVIC System Registers		                     			*/
+/******************************************************************************/
+#define NVIC_INT_ENABLE			0xE000E100
+#define NVIC_INT_PRIORITY0 	0xE000E400 
+
+
+
+/******************************************************************************/
+/*                         Peripheral Register Map Offset                     */
+/******************************************************************************/
+
+
+#define GPIO_SET 0x00
+#define GPIO_CLEAR 0x04
+#define GPIO_SET_ALL 0x08
+#define GPIO_CLEAR_ALL 0x0c
+
+#define TIMER_INITVALUE				0x0
+#define TIMER_CURVALUE				0x4
+#define TIMER_CONTROL				0x8
+#define TIMER_CLEAR					0xC	
+
+
+#define SEG_DIGIT1					0x0
+#define SEG_DIGIT2					0x4
+#define SEG_DIGIT3					0x8
+#define SEG_DIGIT4					0xC
+
+
+
+
+
+
+
+
+

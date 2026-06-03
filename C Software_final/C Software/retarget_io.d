@@ -1,0 +1,10 @@
+.\retarget_io.o: C:/Users/munee/AppData/Local/Arm/Packs/ARM/CMSIS-Compiler/2.1.0/source/armcc/retarget_io.c
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\rt_sys.h
+.\retarget_io.o: .\RTE\_Target_1\RTE_Components.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\retarget_io.o: C:\Users\munee\AppData\Local\Arm\Packs\ARM\CMSIS-Compiler\2.1.0\include\retarget_fs.h
